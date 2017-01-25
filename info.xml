@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="be.aivl.mods" type="module">
+  <file>mods</file>
+  <name>AIVL Mods</name>
+  <description>AIVL CiviCRM Minor Customisations</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>SYSTOPIA</author>
+    <email>endres@systopia.de</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/systopia/be.aivl.mods</url>
+    <url desc="Documentation">https://github.com/systopia/be.aivl.mods</url>
+    <url desc="Support">https://github.com/systopia/be.aivl.mods/issues</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2017-01-25</releaseDate>
+  <version>0.1</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.6</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Mods</namespace>
+  </civix>
+</extension>
