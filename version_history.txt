@@ -1,0 +1,3 @@
+version 1.0
+-----------
+- copy contact id to external_identifier if not otherwise set (#906)
